@@ -1,1 +1,1 @@
-# webmapping_hw
+For the web mapping homework, I used a GeoJSON API to pull data from the USGS to fill and create markers over notable earthquakes. The markers are variable in size based on the magnitude of the earthquake, while the color is decided by the depth of the earthquake. Blue dots, for instance, are all earthquakes recorded at 0km depth or lower, a category that exists because earthquake measurements are often accurate within several km. By clicking on larger dots, we can see some earthquakes that made the news, such as large quakes in Haiti. 
